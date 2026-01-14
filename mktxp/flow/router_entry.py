@@ -85,6 +85,7 @@ class RouterEntry:
                             CollectorKeys.MKTXP_COLLECTOR: 0,
                             CollectorKeys.CERTIFICATE_COLLECTOR: 0,
                             CollectorKeys.CONTAINER_COLLECTOR: 0,
+                            CollectorKeys.USER_MANAGER_COLLECTOR: 0,
                             CollectorKeys.W60G_COLLECTOR: 0
                             }         
         self._dhcp_entry = None        
